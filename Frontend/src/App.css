@@ -94,3 +94,17 @@ span {
 .all {
 	background-color: #f4f5f5;
 }
+
+@media only screen and (max-width: 1000px) {
+	img {
+		height: 200px;
+		width: 100%;
+	}
+
+	.section {
+		background-color: white;
+		display: flex;
+		justify-content: center;
+		padding: 20px;
+	}
+}
