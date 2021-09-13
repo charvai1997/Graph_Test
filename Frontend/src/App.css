@@ -1,0 +1,96 @@
+.App {
+	text-align: center;
+}
+
+.logo {
+	width: 100%;
+
+	background-color: #ebf4ff;
+}
+
+img {
+	height: 200px;
+	width: 500px;
+}
+
+.section {
+	background-color: white;
+	display: flex;
+	justify-content: center;
+}
+.normal {
+	width: 100%;
+	max-width: 1000px;
+}
+
+.login {
+	padding: 25px;
+	color: #595383;
+}
+
+.form-group {
+	text-align: left;
+}
+
+.form-control {
+	box-shadow: none;
+	border-bottom: 2px solid;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+}
+.form-control:focus {
+	box-shadow: none;
+	border-bottom: 2px solid;
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+}
+
+.child {
+	display: flex;
+	justify-content: space-between;
+}
+
+a {
+	color: #6574dd;
+}
+span {
+	color: #6574dd;
+}
+
+.button {
+	width: 100%;
+	max-width: 1000px;
+	padding: 1rem 2px;
+	border-radius: 30px;
+	border: 0;
+	background-color: #6574dd;
+	color: white;
+}
+
+.foot {
+	padding: 10px;
+}
+
+.Growth {
+	color: green;
+	padding: 10px;
+	font-size: 5rem;
+}
+.Loss {
+	color: red;
+	padding: 10px;
+	font-size: 5rem;
+}
+
+.bodytext {
+	padding: 20px;
+}
+
+.welcome {
+	border-bottom: 2px solid white;
+}
+.all {
+	background-color: #f4f5f5;
+}
